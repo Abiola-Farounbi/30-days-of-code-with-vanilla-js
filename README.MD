@@ -2,4 +2,4 @@
 ====================================================================
 ***30 web app ideas using plain javascript and css frameworks***
 ##### [live demo ](https://bit.ly/2Y5B26e)
-![The image of the page](30daysPage.png)
+![The image of the page](demo.png)
